@@ -1,6 +1,4 @@
-game1
-a
-c
-f
-dff
-fcdsf
+game 1
+i am palak
+i am a student
+in chitkara
